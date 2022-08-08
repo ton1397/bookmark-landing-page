@@ -1,4 +1,4 @@
-# bookmark-landing-page
+# bookmark-landing-page vuejs, scss
 
 ## Project setup
 ```
